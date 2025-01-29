@@ -1,0 +1,1 @@
+# OCR-Model-Optimization-GPU-to-CPU-with-EasyOCR-SceneDetect
